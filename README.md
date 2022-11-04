@@ -1,2 +1,2 @@
 # samp-server
-asd
+simon lameculos
