@@ -1,0 +1,189 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:09:00] password = ""  (string)
+[22:09:00] 
+[22:09:00] Server Plugins
+[22:09:00] --------------
+[22:09:00]  Loading plugin: crashdetect.so
+[22:09:00]   CrashDetect plugin 4.19.4
+[22:09:00]   Loaded.
+[22:09:00]  Loading plugin: streamer.so
+[22:09:00] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[22:09:00]   Loaded.
+[22:09:00]  Loading plugin: sscanf.so
+[22:09:00] 
+
+[22:09:00]  ===============================
+
+[22:09:00]       sscanf plugin loaded.     
+
+[22:09:00]          Version:  2.8.3        
+
+[22:09:00]   (c) 2018 Alex "Y_Less" Cole  
+
+[22:09:00]  ===============================
+
+[22:09:00]   Loaded.
+[22:09:00]  Loading plugin: mysql.so
+[22:09:00]  >> plugin.mysql: R41-4 successfully loaded.
+[22:09:00]   Loaded.
+[22:09:00]  Loading plugin: discord-connector.so
+[22:09:00]  >> plugin.dc-connector: v0.3.5 successfully loaded.
+[22:09:00]   Loaded.
+[22:09:00]  Loading plugin: pawnraknet.so
+[22:09:00] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[22:09:00]   Loaded.
+[22:09:00]  Loading plugin: pawncmd.so
+[22:09:00] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[22:09:00]   Loaded.
+[22:09:00]  Loading plugin: nativechecker.so
+[22:09:00]   Loaded.
+[22:09:00]  Loaded 8 plugins.
+
+[22:09:00] 
+[22:09:00] Filterscripts
+[22:09:00] ---------------
+[22:09:00]   Loading filterscript 'Mapas.amx'...
+[22:09:00]   Loaded 1 filterscripts.
+
+[22:09:00]  
+[22:09:00] --------------------------------------
+[22:09:00]  Nex-AC cargado!
+[22:09:00]  version: 1.9.52
+[22:09:00]  Autor: Nexius
+[22:09:00] --------------------------------------
+
+[22:09:00] -------------------------------------------
+[22:09:00] | Conexion correcta con la base de datos  |
+[22:09:00] | El servidor iniciara en un momento...   |
+[22:09:00] | Samu se la come XD......                |
+[22:09:00] -------------------------------------------
+[22:09:00] Linea 0: 1 // anuncio on
+
+[22:09:00] Linea 1: 0 // anuncio off
+[22:09:00] -------------------------------------------------------
+[22:09:00] AddictionZone Roleplay - 2020 .
+[22:09:00] -------------------------------------------------------
+[22:09:00] Number of vehicle models: 2
+[22:09:02] [VEHICULOS]: 153
+[22:09:02]  
+[22:09:02] [CUENTAS]: 8
+[22:09:02] [TERRITORIOS]: 87
+[22:09:02] [FABRICAS]: 12
+[22:09:18] [connection] incoming connection: 181.42.19.32:27416 id: 0
+[22:09:19] [join] Flint has joined the server (0:181.42.19.32)
+[22:09:32] [chat] [Flint]: asdasd
+[22:09:38] [chat] [Flint]: asdasd
+[22:09:42] CMD: Flint: /swat
+[22:10:00] CMD: Flint: /swat
+[22:10:04] CMD: Flint: /swat
+[22:10:14] CMD: Flint: /swat
+[22:10:18] CMD: Flint: /swat
+[22:10:20] CMD: Flint: /swat
+[22:10:24] CMD: Flint: /swat
+[22:10:29] CMD: Flint: /equipo
+[22:11:17] CMD: Flint: /swat
+[22:11:24] CMD: Flint: /swat
+[22:11:35] CMD: Flint: /swat
+[22:11:45] [chat] [Flint]:  
+[22:11:46] [chat] [Flint]:  
+[22:11:46] [chat] [Flint]:  
+[22:11:47] [chat] [Flint]:  
+[22:11:47] [chat] [Flint]:  
+[22:12:06] CMD: Flint: /gd
+[22:12:07] [part] Flint has left the server (0:1)
+[22:45:23] [connection] incoming connection: 181.42.19.32:25833 id: 0
+[22:46:07] [connection] incoming connection: 181.42.19.32:25822 id: 0
+[22:47:14] [connection] incoming connection: 181.42.19.32:27403 id: 0
+[22:47:15] [join] Flint has joined the server (0:181.42.19.32)
+[22:47:34] CMD: Flint: /crear dk
+[22:48:15] CMD: Flint: /aduty
+[22:48:16] CMD: Flint: /ls
+[22:48:40] CMD: Flint: /crear edc
+[22:49:00] CMD: Flint: /gd
+[22:49:01] [part] Flint has left the server (0:1)
+[23:46:51] [connection] incoming connection: 201.210.97.20:12117 id: 0
+[23:46:51] [join] Sam has joined the server (0:201.210.97.20)
+[23:47:12] CMD: Sam: /darfaccion 0 4 9
+[23:47:14] CMD: Sam: /darfaccion 0 4 8
+[23:47:18] CMD: Sam: /darfaccion 0 2 8
+[23:47:38] CMD: Sam: /swat
+[23:47:41] CMD: Sam: /swat
+[23:47:43] CMD: Sam: /swat
+[23:47:45] CMD: Sam: /swat
+[23:47:46] CMD: Sam: /swat
+[23:47:58] CMD: Sam: /equipo
+[23:47:59] CMD: Sam: /equipo
+[23:48:01] CMD: Sam: /equipo
+[23:48:04] CMD: Sam: /equipo
+[23:48:05] CMD: Sam: /equipo
+[23:49:12] CMD: Sam: /traerv 490
+[23:49:15] CMD: Sam: /aduty
+[23:49:16] CMD: Sam: /traerv 490
+[23:49:24] CMD: Sam: /placaex
+[23:49:45] CMD: Sam: /swat
+[23:49:57] CMD: Sam: /aduty
+[23:49:58] CMD: Sam: /traerv 490
+[23:50:02] CMD: Sam: /v 40'
+[23:50:05] CMD: Sam: /v 490
+[23:50:08] CMD: Sam: /v 490 0 0
+[23:50:30] CMD: Sam: /luces
+[23:55:41] CMD: Sam: /swat
+[23:55:46] CMD: Sam: /placaex
+[23:55:50] CMD: Sam: /v 490 0 0
+[23:59:27] CMD: Sam: /gp
+[23:59:28] CMD: Sam: /gp
+[23:59:29] CMD: Sam: /gps
+[00:00:14] CMD: Sam: /ls
+[00:00:50] CMD: Sam: /id 0
+[00:01:00] [chat] [Sam]: !!
+[00:01:01] [chat] [Sam]: sa
+[00:01:03] [chat] [Sam]: a
+[00:01:10] CMD: Sam: /darfaccion 0 0 0
+[00:01:41] CMD: Sam: /darfaccion 0 18
+[00:01:42] CMD: Sam: /darfaccion 0 1 8
+[00:02:04] CMD: Sam: /forcep
+[00:02:05] CMD: Sam: /forcep
+[00:02:06] CMD: Sam: /forcep
+[00:02:07] CMD: Sam: /forcep
+[00:02:10] CMD: Sam: /payday
+[00:03:07] CMD: Sam: /atracar cajafuerte
+[00:03:29] CMD: Sam: /tdp
+[00:05:01] CMD: Sam: /prendas
+[00:05:04] CMD: Sam: /prendas
+[00:05:19] CMD: Sam: /prendas
+[00:05:27] CMD: Sam: /prendas
+[00:06:29] CMD: Sam: /prendas
+[00:06:33] CMD: Sam: /prendas
+[00:06:37] CMD: Sam: /prendas
+[00:06:38] CMD: Sam: /prendas
+[00:07:37] [chat] [Sam]: XD
+[00:07:49] CMD: Sam: /prendas
+[00:08:39] CMD: Sam: /ban
+[00:08:45] CMD: Sam: /baneados
+[00:08:48] [chat] [Sam]: f
+[00:08:49] [part] Sam has left the server (0:1)
